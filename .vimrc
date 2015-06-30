@@ -57,11 +57,11 @@ vnoremap <F1> <ESC>
 
 nnoremap r <c-r>
 
-
 inoremap jj <ESC> 
+inoremap <C-j> <ESC>
 
 nnoremap <leader>v <C-w>v<C-w>l " new vsplit
-nnoremap <leader>V <C-w>v<C-w>l:o<space> " new vs
+nnoremap <C-v> <C-w>v<C-w>l:e<space> " new vs + choose file
 nnoremap <leader>ev <C-w><C-v><C-l>:e $MYVIMRC<cr>
 
 nnoremap T gg
@@ -71,6 +71,10 @@ nnoremap L <C-w>l
 
 nnoremap J ddkP 
 nnoremap K ddp
+
+nnoremap <C-e> $
+nnoremap <C-b> 0
+nnoremap <C-f> ^
 
 nnoremap = <C-W>30>
 nnoremap - <C-W>30<

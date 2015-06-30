@@ -1,11 +1,2 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =9
-let g:netrw_dirhist_1='/Users/connorhicks/Dropbox/Workspaces/WordPress/new/vip-quickstart/.git/info'
-let g:netrw_dirhist_2='/Users/connorhicks/Dropbox/Workspaces/WordPress/new/vip-quickstart/.git/hooks'
-let g:netrw_dirhist_3='/Users/connorhicks/Dropbox/Workspaces/WordPress/new/vip-quickstart/.git/objects'
-let g:netrw_dirhist_4='/Users/connorhicks/Google Drive/Workspaces/SpottedU/core'
-let g:netrw_dirhist_5='/Users/connorhicks/Google Drive/Workspaces/SpottedU/core/routes'
-let g:netrw_dirhist_6='/Users/connorhicks/Google Drive/Workspaces/SpottedU/core'
-let g:netrw_dirhist_7='/Users/connorhicks/Google Drive/Workspaces/SpottedU/core/routes'
-let g:netrw_dirhist_8='/Users/connorhicks/.vim/bundle/jellybeans.vim'
-let g:netrw_dirhist_9='/Users/connorhicks/Google Drive/Workspaces/SpottedU/core'
+let g:netrw_dirhist_cnt =0
